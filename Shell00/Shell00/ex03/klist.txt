@@ -1,0 +1,5 @@
+Credentials cache: API:CFF18F28-B5F2-4592-A117-84421DAE6B7F
+        Principal: bacar@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  9 15:28:06 2022  Feb 10 01:28:06 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
